@@ -21,7 +21,7 @@ class Huffman:
         :return: byte array of the encoded result
         """
         data.rstrip()
-        """ 
+        """
         If frequency_dict arrives by parameter, we assign it.
         Else we build the frequency_dict.
         """
